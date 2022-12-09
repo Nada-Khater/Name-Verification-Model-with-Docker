@@ -51,7 +51,7 @@ Move at this link: http://localhost:5000/ and in URL type the following
 
 - Output should be like this:
 
-![Real](https://user-images.githubusercontent.com/75952748/206789189-26776b9c-2c32-4ffc-b017-eae747dc39e0.png)
+![Real](https://user-images.githubusercontent.com/75952748/206790131-678f21ff-3511-406e-91ac-9affadcab1ae.png)
 ![Fake](https://user-images.githubusercontent.com/75952748/206789208-b39d20ba-eaab-4bc5-8f1b-ba6b21699d92.png)
 
 ## Docker Container
