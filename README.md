@@ -6,6 +6,13 @@ Name verification model using tensorflow v2 and word embedding that classifies t
 ## Dataset
 Dataset available at: https://www.kaggle.com/code/mohamedmagdy11/identify-egyptian-high-school-students-gender/data?select=01_firstExam_data_arabic_extra_gender_feature_v1.csv
 
+## Data Generation
+For Real Data: dropping all columns except name column then take only the first three names from each name.
+For Fake Data: taking 30% from real data then shuffling them.
+
+![ds](https://user-images.githubusercontent.com/75952748/206811530-879bd7c2-b5c9-41a2-ab72-38e0ae8b5e5f.png)
+
+
 ## How to build docker image
 
 - Create requirement.txt file in your project folder with the version of the used libraries in your model:
